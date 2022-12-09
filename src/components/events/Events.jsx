@@ -1,8 +1,9 @@
 import React from 'react'
+import classes from './Events.module.css'
 
 const Events = () => {
   return (
-    <div>Events</div>
+    <div className={classes.test}>Events</div>
   )
 }
 
