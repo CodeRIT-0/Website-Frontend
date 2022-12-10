@@ -1,5 +1,5 @@
 body {
-  background-color: darkblue;
+  background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
 }
 .section-title {
   text-align: center;
@@ -8,11 +8,11 @@ body {
 }
 .section-subtitle {
   text-align: center;
-  background-color: darkblue;
+  background-color: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
   color: white;
 }
 .section-white {
-  background: darkblue;
+  background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
   padding: 10px 40px 10px 40px;
   display: flex;
   flex-direction: row;
