@@ -1,0 +1,24 @@
+.calender{
+    position: relative;
+    left: 8.5rem;
+    bottom: 7.3rem;
+    width: 7rem;
+}
+
+
+.icon{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-left: 0rem;
+}
+
+.location{
+    width:6rem;
+}
+
+
+.locationPlace{
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}

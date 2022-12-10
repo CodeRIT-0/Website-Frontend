@@ -1,4 +1,5 @@
-import Events from "./components/events/Events";
+
+import EventsLanding from "./components/events/EventsLanding";
 import FAQ from "./components/faq/FAQ";
 import Footer from "./components/footer/Footer";
 import Intro from "./components/intro/Intro";
@@ -9,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <Intro />
-      <Events />
+      <EventsLanding />
       <Team />
       <FAQ />
       <Footer />

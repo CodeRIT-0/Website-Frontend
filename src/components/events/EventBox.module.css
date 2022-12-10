@@ -1,0 +1,8 @@
+.Box{
+width: 18rem;
+height: 25rem;
+position: relative;
+bottom:5rem;
+background: rgba(196, 196, 196, 0.2);
+border-radius: 20px;
+}
