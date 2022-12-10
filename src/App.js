@@ -4,15 +4,13 @@ import Footer from "./components/footer/Footer";
 import Intro from "./components/intro/Intro";
 import Team from "./components/team/Team";
 
-
 function App() {
   return (
     <div className="App">
-      <Intro />
-      <Events />
+      <h1>
+        <i class="fas fa-user"></i>
+      </h1>
       <Team />
-      <FAQ />
-      <Footer />
     </div>
   );
 }
