@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap");
+
+.query-section {
+  position: absolute;
+  width: 1280px;
+  height: 378px;
+  left: -1px;
+  top: 4309px;
+  max-width: 100%;
+  overflow: hidden;
+  background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
+}
+.query-header {
+  position: absolute;
+  width: 329px;
+  height: 61px;
+  left: 440px;
+  top: 90px;
+
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 61px;
+  color: #ffffff;
+}
+
+.contact-button {
+  position: absolute;
+  width: 189px;
+  height: 60px;
+  left: 500px;
+  top: 239px;
+  border-radius: 60px;
+  padding: 19px;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  color: #0a0440;
+  background-color: #e5e5e5;
+  transition: background-color 200ms ease-in-out;
+}
+.contact-button:hover {
+  background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
+  color: white;
+  cursor: pointer;
+}

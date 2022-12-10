@@ -1,0 +1,53 @@
+.footer {
+  position: absolute;
+  width: 1280px;
+  height: 613px;
+  left: 0px;
+  top: 4687px;
+  max-width: 100%;
+  /* padding: 80px; */
+
+  background: #000000;
+  overflow: hidden;
+
+  /* outline: 1px solid red; */
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 80px;
+}
+.col {
+  flex: 20%;
+  padding: 5px;
+}
+.footer-col {
+  color: white;
+  text-decoration: none;
+}
+.footer-col:hover {
+  color: darkblue;
+}
+.coderit-footer {
+  max-width: 100%;
+  margin-right: 20px;
+}
+.col ul {
+  list-style: none;
+  justify-content: space-between;
+}
+.col ul li {
+  display: inline-block;
+}
+.col ul li img {
+  /* position: absolute; */
+  display: inline-block;
+  width: 40px;
+  height: 43px;
+  margin-left: 15px;
+}
+.col ul li img:hover {
+  cursor: pointer;
+  background-position: 100% 0;
+  transition: all 0.4s ease-in-out;
+}
