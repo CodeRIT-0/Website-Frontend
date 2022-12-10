@@ -4,6 +4,7 @@ import FAQ from "./components/faq/FAQ";
 import Footer from "./components/footer/Footer";
 import Intro from "./components/intro/Intro";
 import Team from "./components/team/Team";
+import PastEvents from './components/events/PastEvents'
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <div className="App">
       <Intro />
       <EventsLanding />
+      <PastEvents/>
       <Team />
       <FAQ />
       <Footer />

@@ -8,9 +8,9 @@ function EventsLanding() {
     <div className={classes.EventsHome}>
       <EventHeader />
       <div className={classes.allEvents}>
-        <Event/>
-        <Event/>
-        <Event/>
+        <Event boxcolor= "rgba(196, 196, 196, 0.2)"/>
+        <Event boxcolor= "rgba(196, 196, 196, 0.2)"/>
+        <Event boxcolor= "rgba(196, 196, 196, 0.2)"/>
       </div>
     </div>
   )

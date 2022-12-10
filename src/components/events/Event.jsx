@@ -2,11 +2,11 @@ import React from 'react'
 import classes from './Event.module.css'
 import EventBox from './EventBox'
 
-const Event = () => {
+const Event = (props) => {
   return (
     <div className={classes.EventRoot}>
       <div className={classes.Circle} />
-      <EventBox />
+      <EventBox bgcolor = {props.boxcolor}/>
     </div>
   )
 }
