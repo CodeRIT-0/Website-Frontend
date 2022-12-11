@@ -7,17 +7,17 @@ const FAQ = () => {
     {
       id: 1,
       q: "How can I join CodeRIT?",
-      a: "Lorem ipsum, dolor sit amet consectetur adipisicing elit Numquam ab, dolores voluptate, cupiditate perferendis, neque delectus adipisci itaque enim optio qui libero maiores facilis accusamus. Ipsum, voluptates dignissimos accusantium perferendis officia autem dicta error pariatur molestiae eum enim magnam, magni consectetur maxime aliquam earum cumque officiis id vel qui laudantium!",
+      a: "We believe in democracy and diversity  and albeit recruit every year from  3rd year all branches.First round is resume shortlisting. The second one is group discussion.Last round is one on one interview which is not rigid. It will be a formal discussion .Please note that we don’t judge on the basis of achievements of the past but what you will present  can bring to the club is what matters.",
     },
     {
       id: 2,
       q: "How to become CodeRIT’s core member?",
-      a: "Lorem ipsum, dolor sit amet consectetur adipisicing elit Numquam ab, dolores voluptate, cupiditate perferendis, neque delectus adipisci itaque enim optio qui libero maiores facilis accusamus. Ipsum, voluptates dignissimos accusantium perferendis officia autem dicta error pariatur molestiae eum enim magnam, magni consectetur maxime aliquam earum cumque officiis id vel qui laudantium!",
+      a: "Join us on our socials where we regularly post all the events and contest discussion<br>Follow us on our socials <br>Telegram : http://bit.ly/TelegramCodeRIT<br>Discord : https://discord.gg/yVrZCJcq<br>Instagram : https://www.instagram.com/code_rit/<br>LinkedIn : https://www.linkedin.com/company/coderitclub/",
     },
     {
       id: 3,
       q: "How to get most out of CodeRIT?",
-      a: "Lorem ipsum, dolor sit amet consectetur adipisicing elit Numquam ab, dolores voluptate, cupiditate perferendis, neque delectus adipisci itaque enim optio qui libero maiores facilis accusamus. Ipsum, voluptates dignissimos accusantium perferendis officia autem dicta error pariatur molestiae eum enim magnam, magni consectetur maxime aliquam earum cumque officiis id vel qui laudantium!",
+      a: "We host contest and workshop regularly. Participate in the contest we give prizes too. Our club consist of amazing talented group of people whom you can reach out anytime for any help.",
     },
   ];
 
