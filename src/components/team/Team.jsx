@@ -160,7 +160,7 @@ function Team() {
         <section class="section-white">
           <div class="team-item">
             <img
-              src={require("../../images/SinchanaML.jpeg")}
+              src={require("../../images/SinchanaML2.JPG")}
               class="team-img"
               alt="pic"
             />
