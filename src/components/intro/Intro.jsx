@@ -4,6 +4,8 @@ import "./intro.css";
 const Intro = () => {
   return (
     <div id="intro">
+      <img src={require("./../../assets/Files/Intro Video.gif")} alt="test" className="introimg"/>
+      <div id="intro-text">
       <h1 id="intro-head">CodeRIT</h1>
       <p id="intro-para">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. In animi porro
@@ -29,6 +31,7 @@ const Intro = () => {
         reprehenderit? Alias, qui natus. Architecto culpa nostrum odit, debitis
         ipsam quis ducimus vitae dolor?
       </p>
+    </div>
     </div>
   );
 };
