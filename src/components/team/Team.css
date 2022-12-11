@@ -22,7 +22,7 @@ body {
   background: #0a0440;
   color: white;
   text-align: center;
-  height: 500px;
+  height: 600px;
   width: 1000px;
   margin: 5px 20px 5px 20px !important;
   padding: 30px 30px 30px 30px !important;
@@ -33,6 +33,12 @@ body {
   -ms-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
+
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .team-item:hover {
@@ -92,13 +98,13 @@ body {
   border-radius: 50%;
 }
 
-ul.team-icon {
-  margin-top: 25px;
+.team-icon {
+  /* margin-bottom: 25px; */
 }
 
-ul.team-icon li {
-  display: inline-block;
-  margin: 0 3px;
+.team-icon {
+  /* display: inline-block; */
+  /* margin: 0 3px; */
   -webkit-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
   -ms-transition: all 0.25s ease-in-out;
@@ -106,20 +112,19 @@ ul.team-icon li {
   transition: all 0.25s ease-in-out;
 }
 
-ul.team-icon li a {
+.team-icon a {
   margin: 0;
   display: inline-block;
   padding: 8px 8px;
   width: 34px;
   height: 34px;
-  font-size: 18px;
-  line-height: 18px;
+  line-height: 34px;
   background-color: #fff;
   border-radius: 50%;
   color: black;
 }
 
-.team-icon li a:hover {
+.team-icon a:hover {
   color: blue;
   -webkit-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;

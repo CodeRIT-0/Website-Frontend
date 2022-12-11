@@ -27,16 +27,16 @@ function Team() {
               <p>Faculty Co-ordinator</p>
             </div>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://msrit.edu/department/faculty-detail.html?dept=cse&ID=1"
                   class="twitter"
                 >
                   <i class="fa fa-home"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
           <div class="team-item">
             <img
@@ -51,16 +51,16 @@ function Team() {
               <p>Faculty Co-ordinator</p>
             </div>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://msrit.edu/department/faculty-detail.html?dept=cse&ID=18"
                   class="twitter"
                 >
                   <i class="fa fa-home"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
           <div class="team-item">
             <img
@@ -75,16 +75,16 @@ function Team() {
               <p>Faculty Co-ordinator</p>
             </div>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://msrit.edu/department/faculty-detail.html?dept=cse&ID=22"
                   class="twitter"
                 >
                   <i class="fa fa-home"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
         </section>
       </div>
@@ -114,21 +114,21 @@ function Team() {
               Ambidextrous, goofy extrovert. I prefer my puns indented ;) .
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/reesha-shenoy"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
           <div class="team-item">
             <img
-              src={require("../../images/UtkarshAgarwal.jfif")}
+              src={require("../../images/Utkarsh.jpg")}
               class="team-img"
               alt="pic"
             />
@@ -144,20 +144,20 @@ function Team() {
               love to talk to.
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/utkarsh-agarwal-654470191/"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
-        </section>
+        {/* </section>
 
-        <section class="section-white">
+        <section class="section-white"> */}
           <div class="team-item">
             <img
               src={require("../../images/SinchanaML2.JPG")}
@@ -177,16 +177,16 @@ function Team() {
               next jam session!
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href=" https://www.linkedin.com/in/sinchana-lingaraju"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
           <div class="team-item">
@@ -207,16 +207,16 @@ function Team() {
               watches anime during the weekends.
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/prash2002/"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
         </section>
 
@@ -239,20 +239,20 @@ function Team() {
               logical | Love philosophical and scientific paradoxes
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/jayesh-goyal-966a8820a"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
           <div class="team-item">
             <img
-              src={require("../../images/TarunDatwani.jpg")}
+              src={require("../../images/Tarun.png")}
               class="team-img"
               alt="pic"
             />
@@ -265,20 +265,20 @@ function Team() {
 
             <p>A Geek Nerd and an Optimist</p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/tarun-datwani-a46b13193/"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
-        </section>
+        {/* </section>
 
-        <section class="section-white">
+        <section class="section-white"> */}
           <div class="team-item">
             <img
               src={require("../../images/Subinoy.jpg")}
@@ -294,16 +294,16 @@ function Team() {
 
             <p>Geek. Sports buff. Coder. In that order.</p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/subinoy-karmakar-5089351b3"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
           <div class="team-item">
@@ -324,16 +324,16 @@ function Team() {
               red colours in my solutions and red coders in discuss section.
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/chiragsinha07/"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
         </section>
       </div>
@@ -357,16 +357,16 @@ function Team() {
             </div>
             <p>A Fanta Funny Guy</p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/ayush-jain-b4540a17b"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
           <div class="team-item">
@@ -384,16 +384,16 @@ function Team() {
 
             <p>bunking every possible class and extending deadlines</p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/abhiroop-singh-49043320a/"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
           <div class="team-item">
@@ -415,20 +415,17 @@ function Team() {
               getting rickrolled the most times.
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/ninaad-shenoy-825039211/"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
-        </section>
-
-        <section class="section-white">
           <div class="team-item">
             <img
               src={require("../../images/AshishUpadhyay.jpeg")}
@@ -441,18 +438,21 @@ function Team() {
             </div>
             <p>I think I am funny and can code too.</p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/ashish-upadhyay-51aa211b8"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
+        </section>
+
+        <section class="section-white">
           <div class="team-item">
             <img
               src={require("../../images/Arya.jpg")}
@@ -471,13 +471,13 @@ function Team() {
               worst nightmare simultaneously.
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a href="http://linkedin.com/in/arya-151512203" class="twitter">
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
           <div class="team-item">
@@ -495,20 +495,17 @@ function Team() {
 
             <p>love watching taarak mehta ka ooltah chashmah</p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/anirudha-dargar-726bb6236/"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
-        </section>
-
-        <section class="section-white">
           <div class="team-item">
             <img
               src={require("../../images/MaitriPTadas.jpg")}
@@ -524,16 +521,16 @@ function Team() {
 
             <p>A Bibliophile and an ambivert who loves travelling.</p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/maitri-p-tadas-25286b202"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
           <div class="team-item">
@@ -554,17 +551,21 @@ function Team() {
               the part,Following Eat Sleep Code repeat with less attendence!!!!
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/jay-jariwala-b13528223/"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
+          
+        </section>
+
+        <section class="section-white">
           <div class="team-item">
             <img
               src={require("../../images/IshaanShetty.jpg")}
@@ -586,20 +587,20 @@ function Team() {
               engineering student (yes this is how every engineer is)
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/ishaanshetty2040"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
-        </section>
+        {/* </section>
 
-        <section class="section-white">
+        <section class="section-white"> */}
           <div class="team-item">
             <img
               src={require("../../images/Prajwal.jpg")}
@@ -617,16 +618,16 @@ function Team() {
               more info refer documentation" done
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/prajwal-b-mehendarkar-657544210"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
           <div class="team-item">
@@ -644,16 +645,16 @@ function Team() {
 
             <p>To understand recursion. You must first understand recursion.</p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/rishu-rai-b2098a205"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
 
           <div class="team-item">
@@ -674,16 +675,16 @@ function Team() {
               the same time, has a great affinity towards Development.
             </p>
 
-            <ul class="team-icon">
-              <li>
+            <div class="team-icon">
+               
                 <a
                   href="https://www.linkedin.com/in/harsh-dutta-tewari/"
                   class="twitter"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
-              </li>
-            </ul>
+               
+             </div>
           </div>
         </section>
       </div>
