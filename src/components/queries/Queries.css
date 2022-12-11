@@ -1,22 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap");
 
 .query-section {
-  position: absolute;
-  width: 1280px;
-  height: 378px;
-  left: -1px;
-  top: 4309px;
+   /* text-align: center; */
+  width: 100vw;
   max-width: 100%;
+  height: 400px;
   overflow: hidden;
   background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 .query-header {
-  position: absolute;
-  width: 329px;
-  height: 61px;
-  left: 440px;
-  top: 90px;
-
+   /* text-align: center; */
   font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -26,11 +23,8 @@
 }
 
 .contact-button {
-  position: absolute;
   width: 189px;
   height: 60px;
-  left: 500px;
-  top: 239px;
   border-radius: 60px;
   padding: 19px;
   font-size: 18px;

@@ -1,9 +1,10 @@
 .footer {
-  position: absolute;
-  width: 1280px;
-  height: 613px;
-  left: 0px;
-  top: 4687px;
+  /* position: absolute; */
+  width: 100vw;
+  height: 50vh;
+  margin: 0px;
+  /* left: 0px;
+  top: 4687px; */
   max-width: 100%;
   /* padding: 80px; */
 

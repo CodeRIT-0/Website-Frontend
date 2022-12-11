@@ -5,7 +5,6 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div>
-      <Queries />
       <div className="footer">
         <div className="row">
           <div className="col">
