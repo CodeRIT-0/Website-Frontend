@@ -1,0 +1,13 @@
+.root {
+    background-color: white;
+    height: autorem;
+
+
+}
+
+.allPastEvents{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 3rem;
+}

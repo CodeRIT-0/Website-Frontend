@@ -1,0 +1,18 @@
+
+.icon{
+    font-size: 1.8rem;
+    margin-top: 2rem;
+}
+
+.location{
+    width:6rem;
+
+}
+
+
+.locationPlace{
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+

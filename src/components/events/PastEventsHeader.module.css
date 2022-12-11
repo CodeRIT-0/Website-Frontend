@@ -1,0 +1,11 @@
+.header{
+    width: 429px;
+    height: 61px;
+    margin-left: 2rem ;
+    padding: 7rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+}
