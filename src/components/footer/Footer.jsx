@@ -26,16 +26,24 @@ const Footer = () => {
           <div className="col">
             <ul>
               <li>
-                <img src={require("./images/Instagram.png")} />
+                <a href="https://instagram.com/code_rit?igshid=YmMyMTA2M2Y=">
+                  <img src={require("./images/Instagram.png")} />
+                </a>
               </li>
               <li>
-                <img src={require("./images/icons8-linkedin-50 1.png")} />
+                <a href="https://www.linkedin.com/company/coderitclub/">
+                  <img src={require("./images/icons8-linkedin-50 1.png")} />
+                </a>
               </li>
               <li>
-                <img src={require("./images/discord.png")} />
+                <a href="https://discord.gg/NeVcpEC4">
+                  <img src={require("./images/discord.png")} />
+                </a>
               </li>
               <li>
-                <img src={require("./images/Telegram.png")} />
+                <a href="https://t.me/+JkfLZPe6p0cyNmY9">
+                  <img src={require("./images/Telegram.png")} />
+                </a>
               </li>
             </ul>
           </div>
