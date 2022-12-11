@@ -22,6 +22,8 @@ body {
   background: #0a0440;
   color: white;
   text-align: center;
+  height: 500px;
+  width: 1000px;
   margin: 5px 20px 5px 20px !important;
   padding: 30px 30px 30px 30px !important;
   border-radius: 8px 8px;
@@ -40,7 +42,7 @@ body {
 
 .team-item h3 {
   margin: 20px 0 1px 0 !important;
-  color: #454545;
+  color: lightgray;
   font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
@@ -81,7 +83,8 @@ body {
 }
 
 .team-img {
-  max-width: 140px;
+  width: 180px;
+  height: 180px;
   padding: 6px 6px;
   background-color: #dedede;
   -webkit-border-radius: 50%;
