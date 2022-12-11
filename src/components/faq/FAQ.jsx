@@ -28,9 +28,12 @@ const FAQ = () => {
   });
 
   return (
-    <div id="super-faq-container">
-      <div className="faq-container">
-        <div className="faq-accordion">{renderList}</div>
+    <div id="outer-faq-container">
+      <h1>FAQs</h1>
+      <div id="super-faq-container">
+        <div className="faq-container">
+          <div className="faq-accordion">{renderList}</div>
+        </div>
       </div>
     </div>
   );
