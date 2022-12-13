@@ -9,7 +9,7 @@ function Team() {
       <div>
         <div class="container">
           <h2 class="section-title">The Faculty</h2>
-          
+
           {/* <p class="section-subtitle">{message}</p> */}
         </div>
 
@@ -28,15 +28,14 @@ function Team() {
             </div>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://msrit.edu/department/faculty-detail.html?dept=cse&ID=1"
-                  class="twitter"
-                >
-                  <i class="fa fa-home"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://msrit.edu/department/faculty-detail.html?dept=cse&ID=1"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-home"></i>
+              </a>
+            </div>
           </div>
           <div class="team-item">
             <img
@@ -52,15 +51,14 @@ function Team() {
             </div>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://msrit.edu/department/faculty-detail.html?dept=cse&ID=18"
-                  class="twitter"
-                >
-                  <i class="fa fa-home"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://msrit.edu/department/faculty-detail.html?dept=cse&ID=18"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-home"></i>
+              </a>
+            </div>
           </div>
           <div class="team-item">
             <img
@@ -76,15 +74,14 @@ function Team() {
             </div>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://msrit.edu/department/faculty-detail.html?dept=cse&ID=22"
-                  class="twitter"
-                >
-                  <i class="fa fa-home"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://msrit.edu/department/faculty-detail.html?dept=cse&ID=22"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-home"></i>
+              </a>
+            </div>
           </div>
         </section>
       </div>
@@ -115,15 +112,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/reesha-shenoy"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/reesha-shenoy"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -145,15 +141,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/utkarsh-agarwal-654470191/"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/utkarsh-agarwal-654470191/"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
           <div class="team-item">
             <img
@@ -175,15 +170,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href=" https://www.linkedin.com/in/sinchana-lingaraju"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href=" https://www.linkedin.com/in/sinchana-lingaraju"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -205,15 +199,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/prash2002/"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/prash2002/"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
           <div class="team-item">
             <img
@@ -234,15 +227,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/jayesh-goyal-966a8820a"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/jayesh-goyal-966a8820a"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
           <div class="team-item">
             <img
@@ -260,15 +252,14 @@ function Team() {
             <p>A Geek Nerd and an Optimist</p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/tarun-datwani-a46b13193/"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/tarun-datwani-a46b13193/"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
           <div class="team-item">
             <img
@@ -286,15 +277,14 @@ function Team() {
             <p>Geek. Sports buff. Coder. In that order.</p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/subinoy-karmakar-5089351b3"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/subinoy-karmakar-5089351b3"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -316,15 +306,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/chiragsinha07/"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/chiragsinha07/"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
         </section>
       </div>
@@ -349,15 +338,14 @@ function Team() {
             <p>A Fanta Funny Guy</p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/ayush-jain-b4540a17b"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/ayush-jain-b4540a17b"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -376,15 +364,14 @@ function Team() {
             <p>bunking every possible class and extending deadlines</p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/abhiroop-singh-49043320a/"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/abhiroop-singh-49043320a/"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -407,15 +394,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/ninaad-shenoy-825039211/"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/ninaad-shenoy-825039211/"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
           <div class="team-item">
             <img
@@ -430,15 +416,14 @@ function Team() {
             <p>I think I am funny and can code too.</p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/ashish-upadhyay-51aa211b8"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/ashish-upadhyay-51aa211b8"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -460,12 +445,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a href="http://linkedin.com/in/arya-151512203" class="twitter">
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="http://linkedin.com/in/arya-151512203"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -484,15 +471,14 @@ function Team() {
             <p>love watching taarak mehta ka ooltah chashmah</p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/anirudha-dargar-726bb6236/"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/anirudha-dargar-726bb6236/"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
           <div class="team-item">
             <img
@@ -510,15 +496,14 @@ function Team() {
             <p>A Bibliophile and an ambivert who loves travelling.</p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/maitri-p-tadas-25286b202"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/maitri-p-tadas-25286b202"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -540,17 +525,16 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/jay-jariwala-b13528223/"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/jay-jariwala-b13528223/"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
-          
+
           <div class="team-item">
             <img
               src={require("../../images/IshaanShetty.jpg")}
@@ -573,17 +557,16 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/ishaanshetty2040"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/ishaanshetty2040"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
-        {/* </section>
+          {/* </section>
 
         <section class="section-white"> */}
           <div class="team-item">
@@ -604,15 +587,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/prajwal-b-mehendarkar-657544210"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/prajwal-b-mehendarkar-657544210"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -631,15 +613,14 @@ function Team() {
             <p>To understand recursion. You must first understand recursion.</p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/rishu-rai-b2098a205"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/rishu-rai-b2098a205"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
 
           <div class="team-item">
@@ -661,15 +642,14 @@ function Team() {
             </p>
 
             <div class="team-icon">
-               
-                <a
-                  href="https://www.linkedin.com/in/harsh-dutta-tewari/"
-                  class="twitter"
-                >
-                  <i class="fa fa-linkedin"></i>
-                </a>
-               
-             </div>
+              <a
+                href="https://www.linkedin.com/in/harsh-dutta-tewari/"
+                class="twitter"
+                target="_blank"
+              >
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </div>
           </div>
         </section>
       </div>
