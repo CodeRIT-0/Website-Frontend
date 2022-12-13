@@ -9,7 +9,6 @@
 .Circle{
 width: 200px;
 height: 200px;
-background: url(EventCircle.png);
 border-radius: 500px;
 position: relative;
 left: 2.5rem;

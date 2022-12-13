@@ -496,7 +496,7 @@ function Team() {
           </div>
           <div class="team-item">
             <img
-              src={require("../../images/MaitriPTadas.jpg")}
+              src={require("../../images/MaitriPT.jpg")}
               class="team-img"
               alt="pic"
             />
