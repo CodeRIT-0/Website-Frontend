@@ -11,8 +11,8 @@ function BoxContent(props) {
         <p>{props.para}</p>
         </div>
         <div className={classes.loccal}>
-          <Location/>
-          <Calender/>
+          <Location  loc={props.loc}/>
+          <Calender cal={props.cal}/>
         </div>
     </div>
   )

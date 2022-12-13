@@ -9,7 +9,7 @@ const Event = (props) => {
     <div className={classes.EventRoot}>
       {/* <div className={classes.Circle} style={{backgroundImage: `url(${require(props.img1)}))`}}/> */}
       <img className={classes.Circle} src= {require(`${props.img1}`)} />
-      <EventBox bgcolor = {props.boxcolor} header={props.header} para={props.para}/>
+      <EventBox bgcolor = {props.boxcolor} header={props.header} para={props.para} cal={props.cal} loc={props.loc}/>
     </div>
   )
 }
