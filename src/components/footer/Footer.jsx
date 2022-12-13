@@ -27,12 +27,12 @@ const Footer = () => {
           <div className="col">
             <ul>
               <li>
-                <a href="https://instagram.com/code_rit?igshid=YmMyMTA2M2Y=">
+                <a href="https://instagram.com/code_rit?igshid=YmMyMTA2M2Y=" target="_blank">
                   <img src={require("./images/Instagram.png")} alt="" />
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/company/coderitclub/">
+                <a href="https://www.linkedin.com/company/coderitclub/" target="_blank">
                   <img
                     src={require("./images/icons8-linkedin-50 1.png")}
                     alt=""
@@ -40,12 +40,12 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="https://discord.gg/NeVcpEC4">
+                <a href="https://discord.gg/NeVcpEC4" target="_blank">
                   <img src={require("./images/discord.png")} alt="" />
                 </a>
               </li>
               <li>
-                <a href="https://t.me/+JkfLZPe6p0cyNmY9">
+                <a href="https://t.me/+JkfLZPe6p0cyNmY9" target="_blank">
                   <img src={require("./images/Telegram.png")} alt="" />
                 </a>
               </li>

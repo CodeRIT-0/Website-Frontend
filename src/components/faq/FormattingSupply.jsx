@@ -24,12 +24,12 @@ const FormattingSupply = ({ i, q, a }) => {
             <p>
               Join us on our socials where we regularly post all the events and contest discussion <br/>
                Follow us on our socials <br/>
-               Telegram : <a href="http://bit.ly/TelegramCodeRIT">http://bit.ly/TelegramCodeRIT </a>
+               Telegram : <a href="http://bit.ly/TelegramCodeRIT" target="_blank">http://bit.ly/TelegramCodeRIT </a>
                <br/>
-               Discord : <a href=" https://discord.gg/yVrZCJcq">  https://discord.gg/yVrZCJcq</a> 
+               Discord : <a href=" https://discord.gg/yVrZCJcq" target="_blank">  https://discord.gg/yVrZCJcq</a> 
                <br />
-               Instagram : <a href="https://www.instagram.com/code_rit/">https://www.instagram.com/code_rit/</a> 
-               <br />LinkedIn : <a href="https://www.linkedin.com/company/coderitclub/"> https://www.linkedin.com/company/coderitclub/ </a> 
+               Instagram : <a href="https://www.instagram.com/code_rit/" target="_blank">https://www.instagram.com/code_rit/</a> 
+               <br />LinkedIn : <a href="https://www.linkedin.com/company/coderitclub/" target="_blank"> https://www.linkedin.com/company/coderitclub/ </a> 
                </p>
             : 
             <p>{a}</p>
