@@ -470,7 +470,10 @@ function Team() {
               <p>Junior Core Member</p>
             </div>
 
-            <p>love watching taarak mehta ka ooltah chashmah</p>
+            <p>
+              Interested in cp and development stuff. Also I love cricket and
+              tennis!
+            </p>
 
             <div class="team-icon">
               <a
