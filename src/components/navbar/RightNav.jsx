@@ -9,7 +9,7 @@ const Ul = styled.ul`
   flex-flow: row nowrap;
   color: white;
   li {
-    padding: 18px 10px;
+    padding: 18px 30px;
   }
   @media (max-width: 768px) {
     justify-content: flex-start;
