@@ -7,12 +7,12 @@ const FAQ = () => {
     {
       id: 1,
       q: "How can I join CodeRIT?",
-      a: "We believe in democracy and diversity  and albeit recruit every year from  3rd year all branches.First round is resume shortlisting. The second one is group discussion.Last round is one on one interview which is not rigid. It will be a formal discussion .Please note that we don’t judge on the basis of achievements of the past but what you will present  can bring to the club is what matters.",
+      a: "Join us on our socials where we regularly post all the events and contest discussion<br>Follow us on our socials <br>Telegram : http://bit.ly/TelegramCodeRIT<br>Discord : https://discord.gg/yVrZCJcq<br>Instagram : https://www.instagram.com/code_rit/<br>LinkedIn : https://www.linkedin.com/company/coderitclub/",
     },
     {
       id: 2,
       q: "How to become CodeRIT’s core member?",
-      a: "Join us on our socials where we regularly post all the events and contest discussion<br>Follow us on our socials <br>Telegram : http://bit.ly/TelegramCodeRIT<br>Discord : https://discord.gg/yVrZCJcq<br>Instagram : https://www.instagram.com/code_rit/<br>LinkedIn : https://www.linkedin.com/company/coderitclub/",
+      a: "We believe in democracy and diversity  and albeit recruit every year from  3rd year all branches.First round is resume shortlisting. The second one is group discussion.Last round is one on one interview which is not rigid. It will be a formal discussion .Please note that we don’t judge on the basis of achievements of the past but what you will present  can bring to the club is what matters.",
     },
     {
       id: 3,
