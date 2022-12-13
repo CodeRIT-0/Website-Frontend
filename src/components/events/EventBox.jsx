@@ -5,8 +5,8 @@ import BoxContent from './BoxContent';
 
 function EventBox(props) {
   return (
-    <div className= {classes.Box} style={{backgroundColor: props.bgcolor}}>
-        <BoxContent/>
+    <div className= {classes.Box} style={{backgroundColor: props.bgcolor}} >
+        <BoxContent  header={props.header} para={props.para}/>
     </div>
   )
 }
