@@ -1,4 +1,5 @@
 import React from 'react'
+import Burger from './Burger';
 import "./navbar.css"
 
 const Navbar = () => {
@@ -7,7 +8,8 @@ const Navbar = () => {
       <a href="#home" className="coderitimg">
         <img src={require("../../assets/Files/CodeRIT Light Shadow.png")} alt="" />
       </a>
-      <button className="hamburger">
+      <Burger />
+      {/* <button className="hamburger">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-5 w-5"
@@ -46,7 +48,7 @@ const Navbar = () => {
             <a href="#queries">Queries</a>
           </li>
         </ul>
-      </div>
+      </div> */}
     </nav>
   );
 }

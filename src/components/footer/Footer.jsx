@@ -14,7 +14,7 @@ const Footer = () => {
               alt=""
             />
           </div>
-          <div className="col">
+          {/* <div className="col">
             <a href="/" className="footer-col">
               Communities
             </a>
@@ -23,7 +23,7 @@ const Footer = () => {
             <a href="/" className="footer-col">
               Useful links
             </a>
-          </div>
+          </div> */}
           <div className="col">
             <ul>
               <li>
