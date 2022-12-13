@@ -13,9 +13,6 @@ function App() {
       <Intro />
       <EventsLanding />
       <PastEvents/>
-      <h1>
-        <i class="fas fa-user"></i>
-      </h1>
       <Team />
       <FAQ />
       <Queries />

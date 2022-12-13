@@ -1,6 +1,9 @@
 body {
   background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
 }
+.mainteamsection{
+  padding-bottom: 70px;
+}
 .section-title {
   text-align: center;
   font-size: 40px;
@@ -12,19 +15,21 @@ body {
   color: white;
 }
 .section-white {
-  background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
+  /* background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%); */
   padding: 10px 40px 10px 40px;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
+  justify-content: space-evenly;
 }
 
 .team-item {
   background: #0a0440;
   color: white;
   text-align: center;
-  height: 600px;
-  width: 1000px;
-  margin: 5px 20px 5px 20px !important;
+  height: 550px;
+  width: 18%;
+  margin: 35px 20px 5px 20px !important;
   padding: 30px 30px 30px 30px !important;
   border-radius: 8px 8px;
   box-shadow: 5px 5px 5px 5px black;
@@ -150,3 +155,35 @@ a:active {
 .fcolor {
   color: darkgray;
 }
+
+@media only screen and (max-width: 1500px) {
+  .team-item {
+    width: 25%;
+  }
+}
+
+@media only screen and (max-width: 1279px) {
+  .team-item {
+    width: 23%;
+  }
+}
+@media only screen and (max-width: 1049px) {
+  .team-item {
+    width: 20%;
+  }
+}
+
+@media only screen and (max-width: 830px) {
+  /* .section-white {
+    flex-direction: column;
+  } */
+  .team-item {
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width : 580px) {
+.team-item {
+    width: 90%;
+  }
+    }

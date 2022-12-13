@@ -5,11 +5,11 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Team() {
   let message = `Some general info about faculty.`;
   return (
-    <div>
+    <div className="mainteamsection">
       <div>
         <div class="container">
           <h2 class="section-title">The Faculty</h2>
-          <i class="fa fa-address-book"></i>
+          
           <p class="section-subtitle">{message}</p>
         </div>
 
@@ -155,9 +155,6 @@ function Team() {
                
              </div>
           </div>
-        {/* </section>
-
-        <section class="section-white"> */}
           <div class="team-item">
             <img
               src={require("../../images/SinchanaML2.JPG")}
@@ -218,9 +215,6 @@ function Team() {
                
              </div>
           </div>
-        </section>
-
-        <section class="section-white">
           <div class="team-item">
             <img
               src={require("../../images/JayeshGoyal.jpg")}
@@ -276,9 +270,6 @@ function Team() {
                
              </div>
           </div>
-        {/* </section>
-
-        <section class="section-white"> */}
           <div class="team-item">
             <img
               src={require("../../images/Subinoy.jpg")}
@@ -450,9 +441,6 @@ function Team() {
              </div>
           </div>
 
-        </section>
-
-        <section class="section-white">
           <div class="team-item">
             <img
               src={require("../../images/Arya.jpg")}
@@ -563,9 +551,6 @@ function Team() {
              </div>
           </div>
           
-        </section>
-
-        <section class="section-white">
           <div class="team-item">
             <img
               src={require("../../images/IshaanShetty.jpg")}
