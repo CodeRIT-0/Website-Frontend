@@ -10,7 +10,7 @@ function Team() {
         <div class="container">
           <h2 class="section-title">The Faculty</h2>
           
-          <p class="section-subtitle">{message}</p>
+          {/* <p class="section-subtitle">{message}</p> */}
         </div>
 
         <section class="section-white">
@@ -93,7 +93,7 @@ function Team() {
         <div class="container">
           <h2 class="section-title">Senior Core</h2>
 
-          <p class="section-subtitle">/* pun */</p>
+          {/* <p class="section-subtitle"> pun </p> */}
         </div>
         <section class="section-white">
           <div class="team-item">
@@ -333,7 +333,7 @@ function Team() {
         <div class="container">
           <h2 class="section-title">Junior Core</h2>
 
-          <p class="section-subtitle">/* pun */</p>
+          {/* <p class="section-subtitle">pun </p> */}
         </div>
         <section class="section-white">
           <div class="team-item">
