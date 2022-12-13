@@ -8,9 +8,9 @@ function PastEvents() {
     <div className= {classes.root}>
     <PastEventsHeader />
     <div className={classes.allPastEvents}>
+        {/* <Event boxcolor="#0A0440"/>
         <Event boxcolor="#0A0440"/>
-        <Event boxcolor="#0A0440"/>
-        <Event boxcolor="#0A0440"/>
+        <Event boxcolor="#0A0440"/> */}
     </div>
     </div>
   )
