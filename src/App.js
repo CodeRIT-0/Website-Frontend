@@ -5,7 +5,7 @@ import Footer from "./components/footer/Footer";
 import Intro from "./components/intro/Intro";
 import Team from "./components/team/Team";
 import PastEvents from './components/events/PastEvents'
-
+import Queries from "./components/queries/Queries";
 
 function App() {
   return (
@@ -15,6 +15,7 @@ function App() {
       <PastEvents/>
       <Team />
       <FAQ />
+      <Queries />
       <Footer />
     </div>
   );

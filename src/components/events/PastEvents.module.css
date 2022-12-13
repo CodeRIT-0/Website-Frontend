@@ -7,7 +7,9 @@
 
 .allPastEvents{
     display: flex;
-    flex-direction: row;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
     justify-content: space-around;
-    margin-right: 3rem;
+    /* margin-right: 3rem; */
+    align-items: center;
 }

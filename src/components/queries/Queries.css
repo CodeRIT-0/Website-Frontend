@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap");
+
+.query-section {
+   /* text-align: center; */
+  width: 100vw;
+  max-width: 100%;
+  height: 400px;
+  overflow: hidden;
+  background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.query-header {
+   /* text-align: center; */
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 61px;
+  color: #ffffff;
+}
+
+.contact-button {
+  width: 189px;
+  height: 60px;
+  border-radius: 60px;
+  padding: 19px;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  color: #0a0440;
+  background-color: #e5e5e5;
+  transition: background-color 500ms ease-in-out;
+}
+.contact-button:hover {
+  background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
+  color: white;
+  cursor: pointer;
+}
+/* .contact-button ::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: #ffee10;
+  transition: 0.5s;
+  transform: scale(0.9);
+  z-index: -1;
+}
+.contact-button:hover::before {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #09ef24;
+}
+.contact-button:hover {
+  cursor: pointer;
+  color: #09ef24;
+  box-shadow: 0 0 5px #09ef24;
+  text-shadow: 0 0 5px #09ef24;
+} */

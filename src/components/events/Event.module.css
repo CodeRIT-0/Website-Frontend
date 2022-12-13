@@ -1,7 +1,7 @@
 
 .EventRoot{
-    margin-left:5rem;
-    margin-right: 5rem;
+    /* margin-left:5rem;
+    margin-right: 5rem; */
 }
 
 
@@ -9,7 +9,6 @@
 .Circle{
 width: 200px;
 height: 200px;
-background: url(EventCircle.png);
 border-radius: 500px;
 position: relative;
 left: 2.5rem;
