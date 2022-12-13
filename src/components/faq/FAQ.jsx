@@ -7,7 +7,7 @@ const FAQ = () => {
     {
       id: 1,
       q: "How can I join CodeRIT?",
-      a: "Join us on our socials where we regularly post all the events and contest discussion<br>Follow us on our socials <br>Telegram : http://bit.ly/TelegramCodeRIT<br>Discord : https://discord.gg/yVrZCJcq<br>Instagram : https://www.instagram.com/code_rit/<br>LinkedIn : https://www.linkedin.com/company/coderitclub/",
+      a: "Join us on our socials where we regularly post all the events and contest discussion <li> Follow us on our socials <br>Telegram : http://bit.ly/TelegramCodeRIT<br>Discord : https://discord.gg/yVrZCJcq<br>Instagram : https://www.instagram.com/code_rit/<br>LinkedIn : https://www.linkedin.com/company/coderitclub/",
     },
     {
       id: 2,
@@ -24,7 +24,7 @@ const FAQ = () => {
   const [data] = useState(ques);
 
   const renderList = data.map((item) => {
-    return <FormattingSupply key={item.id} q={item.q} a={item.a} />;
+    return <FormattingSupply key={item.id} i={item.id} q={item.q} a={item.a.split("<li>")} />;
   });
 
   return (

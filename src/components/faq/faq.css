@@ -25,7 +25,7 @@
 }
 
 .accordion-item {
-  background-color: #283042;
+  background: linear-gradient(271.2deg, #000000 0%, #0a0440 55.69%);
   border-radius: 0.4rem;
   margin-bottom: 1rem;
   padding: 0.6rem 1rem;
@@ -36,7 +36,8 @@
   font-size: 1.3rem;
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
-  background-color: #283042;
+  
+  /* background-color: #283042; */
   width: 100%;
   display: flex;
   align-items: center;
@@ -50,17 +51,23 @@
 }
 
 .faq-answers {
+  padding-left: 20px;
   max-height: 20rem;
   position: relative;
-  background-color: #212838;
+  margin-left: 30px;
+  background: rgba(196, 196, 196, 0.2);
+  /* background-color: #212838; */
+
 }
 
 .faq-answers::before {
+  
   content: "";
   position: absolute;
   width: 0.2rem;
+  margin-left: 10px;
   height: 90%;
-  background-color: greenyellow;
+  background-color: white;
   top: 50%;
   left: 0;
   transform: translateY(-50%);

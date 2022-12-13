@@ -103,7 +103,8 @@ body {
   border-radius: 50%;
 }
 
-.team-icon {
+.team-icon a {
+  color: black!important;
   /* margin-bottom: 25px; */
 }
 
