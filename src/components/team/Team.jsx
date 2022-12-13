@@ -361,7 +361,9 @@ function Team() {
               <p>Junior Core Member</p>
             </div>
 
-            <p>bunking every possible class and extending deadlines</p>
+            <p>
+              I am chill kind of guy but when i am not chilling i am coding.
+            </p>
 
             <div class="team-icon">
               <a
