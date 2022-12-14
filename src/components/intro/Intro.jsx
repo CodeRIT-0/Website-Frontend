@@ -10,6 +10,12 @@ const Intro = () => {
           alt="test"
           className="introimg"
         />
+        <img
+          src={require("./../../assets/Files/mobile landing.png")}
+          alt="test"
+          className="introabc"
+        />
+
         <div className="centered">
           {/* <h2>
             A community that helps develop the Coding Culture of Ramaiah

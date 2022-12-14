@@ -1,6 +1,6 @@
-#intro{
+#intro {
   background-color: white;
- padding-top:60px;
+  padding-top: 60px;
 }
 
 .container {
@@ -16,7 +16,7 @@
 }
 #intro-text {
   width: 80%;
-  padding: 10% 10%; 
+  padding: 10% 10%;
 }
 
 #intro-head {
@@ -24,7 +24,20 @@
   font-size: 2.3rem;
 }
 
-.introimg{
+.introimg {
   width: 100%;
   padding: 0px;
+}
+.introabc {
+  display: none;
+}
+@media (max-width: 480px) {
+  .introimg {
+    display: none;
+  }
+  .introabc {
+    width: 100%;
+    padding: 0px;
+    display: inline;
+  }
 }
