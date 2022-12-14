@@ -1,6 +1,6 @@
 .navigation {
-     /* position: sticky; */
-position: fixed;
+  /* position: sticky; */
+  position: fixed;
   top: 0;
   left: 0;
   /* top: 0; */
@@ -35,12 +35,12 @@ position: fixed;
   width: 100%;
 }
 
-.coderitimg img{
-    padding: 10px 40px;
-    width: 100px;
+.coderitimg img {
+  padding: 10px 40px;
+  width: 100px;
 }
 
-a{
+a {
   text-decoration: none;
   color: white;
 }
@@ -55,8 +55,6 @@ a:visited {
   color: white;
 }
 
-
-
 a:hover {
   text-decoration: none;
   color: white;
@@ -68,3 +66,6 @@ a:active {
   color: white;
 }
 
+#join {
+  font-weight: 900;
+}

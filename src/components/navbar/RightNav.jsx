@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
 const Ul = styled.ul`
   list-style: none;
@@ -16,7 +16,7 @@ const Ul = styled.ul`
     flex-flow: column nowrap;
     background-color: black;
     position: fixed;
-    transform: ${({ open }) => open ? 'translateX(0)' : 'translateX(100%)'};
+    transform: ${({ open }) => (open ? "translateX(0)" : "translateX(100%)")};
     top: 0;
     right: 0;
     height: 100vh;
@@ -32,30 +32,31 @@ const Ul = styled.ul`
 const RightNav = ({ open }) => {
   return (
     <Ul open={open}>
-       <li>
-            <a href="#home">Home</a>
-          </li>
-          <li>
-            <a href="#events">Upcoming Events</a>
-          </li>
-          <li>
-            <a href="#pastev">Past Events</a>
-          </li>
-          
-          <li>
-            <a href="#team">Team</a>
-          </li>
-          
-          <li>
-            <a href="#faq">FAQ</a>
-          </li>
-          
-          <li>
-            <a href="#queries">Queries</a>
-          </li>
-        
-    </Ul>
-  )
-}
+      <li>
+        <a href="#home">Home</a>
+      </li>
+      <li>
+        <a href="#events">Upcoming Events</a>
+      </li>
+      <li>
+        <a href="#pastev">Past Events</a>
+      </li>
 
-export default RightNav
+      <li>
+        <a href="#team">Team</a>
+      </li>
+
+      <li>
+        <a href="#faq">FAQ</a>
+      </li>
+
+      <li>
+        <a href="#queries" id="join">
+          Join us!
+        </a>
+      </li>
+    </Ul>
+  );
+};
+
+export default RightNav;
