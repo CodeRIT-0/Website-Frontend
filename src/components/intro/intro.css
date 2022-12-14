@@ -27,7 +27,7 @@
     padding: 1rem;
     width: 100%;
     background-color: #e8f4ff;
-    margin: 2rem 0rem;
+    margin: 2rem -1rem;
     border-radius: 0.7rem;
     /* opacity: 0.2; */
   }
@@ -39,15 +39,17 @@
     flex-direction: row;
     justify-content: space-between;
     margin-top: 2rem;
+    margin-right: 1.5rem;
   }
   #grid-item {
     width: 40%;
     background-color: #e8f4ff;
-    padding: 1rem 1.2rem;
+    padding: 1.5rem 1.2rem;
     /* margin: 0rem 2rem; */
     border-radius: 0.7rem;
     text-align: center;
     padding-bottom: 2.5rem;
+
     margin-bottom: 2rem;
   }
 }
