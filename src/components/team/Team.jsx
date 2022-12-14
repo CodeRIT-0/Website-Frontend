@@ -24,7 +24,7 @@ function Team() {
             <h3>Dr Annapurna P. Patil</h3>
 
             <div class="team-info">
-              <p>Faculty Co-ordinator</p>
+              <p>HOD of Computer Science and Engineering</p>
             </div>
 
             <div class="team-icon">
@@ -103,12 +103,12 @@ function Team() {
             <h3>Reesha Shenoy</h3>
 
             <div class="team-info">
-              <p>Senior Core Member</p>
+              <p>Student Co-ordinator</p>
             </div>
 
             <p>
-              The name's Reesha, CSE 4th year. Bet I can beat you at chess.
-              Ambidextrous, goofy extrovert. I prefer my puns indented ;) .
+              The name's Reesha. Bet I can beat you at chess. Ambidextrous,
+              goofy extrovert. I prefer my puns indented ;)
             </p>
 
             <div class="team-icon">
@@ -132,7 +132,7 @@ function Team() {
             <h3>Utkarsh Agarwal</h3>
 
             <div class="team-info">
-              <p>Senior Core Member</p>
+              <p>Student Co-ordinator</p>
             </div>
 
             <p>

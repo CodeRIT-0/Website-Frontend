@@ -47,7 +47,8 @@ body {
 }
 
 .team-item:hover {
-  background: white;
+  background: #deecff;
+  /* background: #cde1ff; */
   color: Black;
 }
 
