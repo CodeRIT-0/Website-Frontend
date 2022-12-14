@@ -1,5 +1,6 @@
 #intro {
   background-color: white;
+  padding-top: 60px;
 }
 
 .container {
@@ -66,10 +67,16 @@
   width: 100%;
   padding: 0px;
 }
-
-#intro-para {
-  text-align: justify;
+.introabc {
+  display: none;
 }
-
-.box {
+@media (max-width: 480px) {
+  .introimg {
+    display: none;
+  }
+  .introabc {
+    width: 100%;
+    padding: 0px;
+    display: inline;
+  }
 }

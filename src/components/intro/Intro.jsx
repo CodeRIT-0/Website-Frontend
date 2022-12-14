@@ -10,6 +10,12 @@ const Intro = () => {
           alt="test"
           className="introimg"
         />
+        <img
+          src={require("./../../assets/Files/mobile landing.png")}
+          alt="test"
+          className="introabc"
+        />
+
         <div className="centered">
           {/* <h2>
             A community that helps develop the Coding Culture of Ramaiah
@@ -28,7 +34,7 @@ const Intro = () => {
           contests, workshop and information about competitions like ACM-ICPC,
           Google Code Jam, Google Summer of Code, and other online coding
           events. We conduct workshops on areas of computer science like web
-          development, resume building, git/GitHub etc. We conduct coding
+          development, resume building, Git/GitHub etc. We conduct coding
           competitions which are open to all branches with exciting prizes to
           the winners and best female coder - Coding Diva as well.
         </p>
