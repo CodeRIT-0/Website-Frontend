@@ -3,13 +3,17 @@ import classes from './BoxContent.module.css'
 import Calender from './Calender'
 import Location from './Location'
 
-function BoxContent() {
+function BoxContent(props) {
   return (
     <div className={classes.content}>
-        <h2>BINARY SEARCH</h2>
-        <p>Facing TLE while solving questions? Attend this beginner friendly workshop and see how Binary search helps!</p>
-        <Location/>
-        <Calender/>
+      <div className={classes.eventtext}>
+        <h2>{props.header}</h2>
+        <p>{props.para}</p>
+        </div>
+        <div className={classes.loccal}>
+          <Location  loc={props.loc}/>
+          <Calender cal={props.cal}/>
+        </div>
     </div>
   )
 }
