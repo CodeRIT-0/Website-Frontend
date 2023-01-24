@@ -11,21 +11,21 @@ function EventsLanding() {
         <a href="https://linktr.ee/Code_rit">
           <Event
             boxcolor="rgba(196, 196, 196, 0.2)"
-            img1="./CodeIcebreaker.png"
-            header="CodeRIT Coding Day December"
-            para="CP contest including easy, medium and hard level question. Specially designed for freshers."
-            loc="Codechef"
-            cal="24th December,2022"
+            img1="./whackiest2023.jpeg"
+            header="CodeRIT's wHACKiest '2023"
+            para="CodeRIT presents wHACKiest 2023, the annual intra college 24-hour long hackathon."
+            loc="Remote(Online)"
+            cal="27th January,2023"
           />
         </a>
         <a href="https://linktr.ee/Code_rit">
           <Event
             boxcolor="rgba(196, 196, 196, 0.2)"
             img1="./CodeIcebreaker.png"
-            header="CodeRIT Icebreaker"
-            para="First official meet of 2022, especially the first years, and all coding enthusiastic out there."
-            loc="DES Hi-Tech seminar hall"
-            cal="14th December, 2022"
+            header="CodeRIT Coding Day February"
+            para="CP contest including easy,medium and hard level questions."
+            loc="Hackerrank"
+            cal="25th February, 2023"
           />
         </a>
 
